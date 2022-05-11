@@ -12,7 +12,7 @@ const app = Vue.createApp(
        {
         changeTitle(title)
            {
-               this.title=title
+               this.title =title
            }
        }
     }
